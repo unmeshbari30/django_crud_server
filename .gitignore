@@ -1,4 +1,4 @@
-.env
+# .env  commented temporarily even though commiting .env is bad practice
 __pycache__/
 *.pyc
 db.sqlite3
